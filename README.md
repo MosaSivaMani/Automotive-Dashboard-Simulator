@@ -6,6 +6,10 @@ It’s ideal for educational use, basic GUI projects, or simulation concepts for
 
 ---
 
+
+
+
+
 ## 🔧 Features
 
 - 📈 **Speedometer & RPM Gauge**: Analog-style dials with animated needles.
@@ -115,3 +119,4 @@ This project is provided **for educational purposes only**.
 You may modify and distribute it freely under the terms of the [MIT License](LICENSE).
 
 ---
+
