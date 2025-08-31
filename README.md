@@ -1,6 +1,6 @@
 # 🚗 Automotive Dashboard Simulator
 
-This project is a **graphical simulation of a car dashboard** using **Python and Tkinter**. It mimics basic functionalities of a real car dashboard, including a **speedometer**, **RPM gauge**, **fuel and temperature indicators**, and **dashboard warning lights**.
+This project is a **graphical simulation of a car dashboard** using **Python and Tkinter**. It mimics basic functionalities of a real car dashboard, including a **speedometer**, **RPM gauge**, **fuel and temperature indicators**, and **dashboard warning lights**.   
 
 It’s ideal for educational use, basic GUI projects, or simulation concepts for embedded/automotive systems.
 
@@ -119,4 +119,5 @@ This project is provided **for educational purposes only**.
 You may modify and distribute it freely under the terms of the [MIT License](LICENSE).
 
 ---
+
 
